@@ -1,0 +1,9 @@
+c:\users\levub\documents\visual studio 2015\Projects\get_filename\get_filename\bin\Debug\get_filename.exe.config
+C:\Users\levub\Documents\Visual Studio 2015\Projects\get_filename\get_filename\bin\Debug\get_filename.exe
+C:\Users\levub\Documents\Visual Studio 2015\Projects\get_filename\get_filename\bin\Debug\get_filename.pdb
+C:\Users\levub\Documents\Visual Studio 2015\Projects\get_filename\get_filename\obj\Debug\get_filename.csprojResolveAssemblyReference.cache
+C:\Users\levub\Documents\Visual Studio 2015\Projects\get_filename\get_filename\obj\Debug\get_filename.Form1.resources
+C:\Users\levub\Documents\Visual Studio 2015\Projects\get_filename\get_filename\obj\Debug\get_filename.Properties.Resources.resources
+C:\Users\levub\Documents\Visual Studio 2015\Projects\get_filename\get_filename\obj\Debug\get_filename.csproj.GenerateResource.Cache
+C:\Users\levub\Documents\Visual Studio 2015\Projects\get_filename\get_filename\obj\Debug\get_filename.exe
+C:\Users\levub\Documents\Visual Studio 2015\Projects\get_filename\get_filename\obj\Debug\get_filename.pdb
