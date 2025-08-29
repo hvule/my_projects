@@ -1,2 +1,2 @@
-# my_projects
-A repo for in econ/finance codes
+# my_projects/ EFFM tutorial code
+Python codes to plot utility/production and inverse functions.
